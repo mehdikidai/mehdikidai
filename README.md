@@ -1,6 +1,11 @@
-# 💫 About Me:
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web
+# 👋 Hi, I'm Mehdi (mehdikidai)
 
+💫 **About Me**
+
+I'm a **Full Stack Developer** specializing in **Laravel**, **Vue.js**, **React**, and **TypeScript**.  
+I enjoy building clean, scalable web applications and APIs, with a strong focus on performance and developer experience.
+
+I work comfortably with modern JavaScript ecosystems, backend architectures, and database-driven applications.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehdikidai) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mehdikidai) 
