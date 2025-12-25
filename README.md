@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehdi (mehdikidai)
+# 👋 Hi, I'm Mehdi
 
 💫 **About Me**
 
